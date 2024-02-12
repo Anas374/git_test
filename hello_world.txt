@@ -1,0 +1,7 @@
+hello world in C++
+
+#include <iostream>
+
+std::cout >> "hello world";
+
+return 0;
