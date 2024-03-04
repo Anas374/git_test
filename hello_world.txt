@@ -2,6 +2,6 @@ hello world in C++
 
 #include <iostream>
 
-std::cout >> "hello world";
+std::cout >> "hello world hgjhgh";
 
 return 0;
